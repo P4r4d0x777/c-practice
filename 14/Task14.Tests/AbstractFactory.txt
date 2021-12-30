@@ -1,0 +1,4 @@
+Bubble 5   27 16 13 4 2
+Choice 5   2 4 13 16 27
+Bubble 5   27 4 13 2 16
+Choice 5   2 4 13 16 27
